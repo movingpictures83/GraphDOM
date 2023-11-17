@@ -1,0 +1,2 @@
+Prefix plugins/GraphDOM/example/
+Plugin GraphDOM inputfile input.xlsx outputfile .
